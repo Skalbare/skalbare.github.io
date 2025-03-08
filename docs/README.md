@@ -1,3 +1,6 @@
-# www.skalbare.net
+# Skal bare...
+
+
+## Test sidebare
 
 Init med docsify :-)
