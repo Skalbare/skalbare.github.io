@@ -1,4 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Startsiden](/)
+Innhold:
+
 * [Google søketips](google-search.md)
+* [CSS] (css.md)

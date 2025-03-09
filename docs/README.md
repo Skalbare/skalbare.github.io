@@ -1,4 +1,4 @@
-# Skal bare...
+# Skal bare... <!-- {docsify-ignore-all} -->
 
 
 ## Test sidebare

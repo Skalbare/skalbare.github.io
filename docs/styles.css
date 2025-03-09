@@ -1,0 +1,14 @@
+/* Add custom styles here */
+/* Override the theme styles here */
+
+:root {
+    --content-max-width: 70em;
+}
+
+.markdown-section {
+    margin: 0;
+}
+
+.markdown-section tbody td {
+    vertical-align: top;
+}
