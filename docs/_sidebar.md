@@ -3,4 +3,4 @@
 Innhold:
 
 * [Google søketips](google-search.md)
-* [CSS-tips] (css-tips.md)
+* [CSS-tips](css-tips.md)
