@@ -1,4 +1,4 @@
-# Google Søketips
+# Google søketips
 
 Google er mye mer en nettsøk med to eller tre ord. Under her er tips for hvordan søkeresultet kan minimeres til det du faktisk leter etter.
 
