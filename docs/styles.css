@@ -5,6 +5,11 @@
     --content-max-width: 70em;
 }
 
+.sidebar p {
+    font-weight: bold;
+    margin-block-end: 0.5em;
+}
+
 .markdown-section {
     margin: 0;
 }
