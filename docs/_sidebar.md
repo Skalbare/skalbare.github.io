@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-[Startside](/)
+* [Startside](/)
 * [Google Søketips](google-search.md)
